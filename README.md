@@ -9,9 +9,9 @@
 
 # Tecnologias
 
-
-
-
+- JavaScript
+- TypeScript
+ 
 # Projeto
 App univeral em React Native utilizando Expo: uma plataforma e um conjunto de ferramentas que simplificam o desenvolvimento de aplicativos móveis.
 
